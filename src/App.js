@@ -17,7 +17,7 @@ function App() {
     detail: '',
   });
 
-  const apiUrl = 'http://localhost:4000'
+  const apiUrl = 'https://ecb-api.herokuapp.com'
 
 
   const [show, setShow] = useState(false);
